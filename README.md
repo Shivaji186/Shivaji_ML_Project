@@ -1,1 +1,1 @@
-# Shivaji_MachineLearning_Project
+# Shivaji_ML_Projects
